@@ -1,0 +1,17 @@
+# Visual Studio
+obj
+bin
+src/CommonAssemblyInfo.cs
+*.csproj.user
+*.suo
+*.cache
+
+results
+build
+artifacts
+
+# Resharper
+*.resharper.user
+*.ReSharper.user
+*/_Resharper.*/
+*/_ReSharper.*/
